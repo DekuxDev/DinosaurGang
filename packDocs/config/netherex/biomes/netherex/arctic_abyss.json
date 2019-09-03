@@ -48,6 +48,24 @@
 			"spawnWeight": 15,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primal:canis_campestris",
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "primal:bear_black",
+			"spawnWeight": 3,
+			"minimumGroupCount": 0,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "primal:ovis_atre",
+			"spawnWeight": 90,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 6
 		}
 	],
 	"traits": [

@@ -29,6 +29,7 @@
         "galaxyspace:tile.aluminum_ore",
         "galaxyspace:tile.europa_aluminum_ore",
         "galaxyspace:tile.mars_aluminum",
+        "geolosys:geolosys.cluster.aluminum",
         "libvulpes:material.Aluminum",
         "moreplanets:tile.chalos_block.aluminum_ore",
         "moreplanets:tile.diona_block.aluminum_ore",
@@ -39,6 +40,7 @@
       ],
       "output": [
         "libvulpes:productnugget:9",
+        "primal:aluminum_nugget:0",
         "thermalfoundation:material:196"
       ]
     },
@@ -90,6 +92,7 @@
         "galacticraftplanets:tile.venus.venus_ore_copper",
         "galaxyspace:tile.copper_ore",
         "galaxyspace:tile.io_copper_ore",
+        "geolosys:geolosys.cluster.copper",
         "libvulpes:material.Copper",
         "mekanism:tile.OreBlock.CopperOre",
         "moreplanets:tile.chalos_block.copper_ore",
@@ -97,12 +100,15 @@
         "moreplanets:tile.fronos_ore.copper_ore",
         "moreplanets:tile.koentus_block.copper_ore",
         "moreplanets:tile.nibiru_ore.copper_ore",
+        "mysticalworld:tile.copper_ore",
         "nuclearcraft:tile.nuclearcraft.ore.copper",
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
         "libvulpes:productnugget:4",
         "mekanism:nugget:5",
+        "mysticalworld:copper_nugget:0",
+        "primal:copper_nugget:0",
         "thermalfoundation:material:192"
       ]
     },
@@ -113,6 +119,7 @@
         "cyclicmagic:tile.nether_gold_ore",
         "galaxyspace:tile.gold_ore",
         "galaxyspace:tile.mars_gold",
+        "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold",
         "moreplanets:tile.fronos_ore.gold_ore",
         "moreplanets:tile.nibiru_ore.gold_ore"
@@ -162,6 +169,7 @@
         "galaxyspace:tile.iron_ore",
         "galaxyspace:tile.mercury_iron_ore",
         "galaxyspace:tile.miranda_iron_ore",
+        "geolosys:geolosys.cluster.iron",
         "minecraft:tile.oreIron",
         "moreplanets:tile.chalos_block.iron_ore",
         "moreplanets:tile.fronos_ore.iron_ore",
@@ -177,11 +185,13 @@
       "langKey": [
         "extraplanets:tile.ore_lead",
         "galacticraftplanets:tile.venus.venus_ore_galena",
+        "geolosys:geolosys.cluster.lead",
         "moreplanets:tile.fronos_ore.lead_ore",
         "nuclearcraft:tile.nuclearcraft.ore.lead",
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
+        "primal:lead_nugget:0",
         "thermalfoundation:material:195"
       ]
     },
@@ -201,15 +211,18 @@
         "galaxyspace:tile.mercury_nickel_ore",
         "galaxyspace:tile.nickel_ore",
         "galaxyspace:tile.nickel_ore",
+        "geolosys:geolosys.cluster.nickel",
         "thermalfoundation:tile.thermalfoundation.ore.nickel"
       ],
       "output": [
+        "primal:nickel_nugget:0",
         "thermalfoundation:material:197"
       ]
     },
     "oreOsmium": {
       "slagColor": "9babc4",
       "langKey": [
+        "geolosys:geolosys.cluster.osmium",
         "mekanism:tile.OreBlock.OsmiumOre"
       ],
       "output": [
@@ -220,9 +233,11 @@
       "slagColor": "55f3ff",
       "langKey": [
         "extraplanets:tile.kepler22b.ore_platinum",
+        "geolosys:geolosys.cluster.platinum",
         "thermalfoundation:tile.thermalfoundation.ore.platinum"
       ],
       "output": [
+        "primal:platinum_nugget:0",
         "thermalfoundation:material:198"
       ]
     },
@@ -230,12 +245,16 @@
       "slagColor": "e8f6fd",
       "langKey": [
         "bewitchment:tile.bewitchment.silver_ore",
+        "geolosys:geolosys.cluster.silver",
         "iceandfire:tile.iceandfire.silverOre",
+        "mysticalworld:tile.silver_ore",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
         "bewitchment:silver_nugget:0",
         "iceandfire:silver_nugget:0",
+        "mysticalworld:silver_nugget:0",
+        "primal:silver_nugget:0",
         "thermalfoundation:material:194"
       ]
     },
@@ -267,6 +286,7 @@
         "galacticraftplanets:tile.mars.tinmars",
         "galacticraftplanets:tile.venus.venus_ore_tin",
         "galaxyspace:tile.tin_ore",
+        "geolosys:geolosys.cluster.tin",
         "libvulpes:material.Tin",
         "mekanism:tile.OreBlock.TinOre",
         "moreplanets:tile.chalos_block.tin_ore",
@@ -280,6 +300,7 @@
       "output": [
         "libvulpes:productnugget:5",
         "mekanism:nugget:6",
+        "primal:tin_nugget:0",
         "thermalfoundation:material:193"
       ]
     }
