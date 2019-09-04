@@ -1,0 +1,29 @@
+[
+  {
+    "dimension": 0,
+    "block": [
+      "minecraft:grass",
+      "minecraft:sand",
+      "minecraft:sand@1"
+    ],
+    "biome": [
+        "Plains",
+        "Extreme Hills",
+        "Forest",
+        "Taiga",
+        "Swampland",
+        "River"
+    ],
+    "mobs": [
+      {
+        "mob": "fossil:fossil.velociraptor",
+        "weight": 5,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  }
+]
+
+
+
