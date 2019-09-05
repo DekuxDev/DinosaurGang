@@ -2,7 +2,19 @@
 	{
 		"dimension": 0,
 		"mob": "fossil:fossil.velociraptor",
-		"mincount": 30,
+		"mincount": 15,
+		"result": "deny"
+	},
+	{
+		"dimension": 0,
+		"mob": "fossil:fossil.tyrannosaurus",
+		"mincount": 5,
+		"result": "deny"
+	},
+	{
+		"dimension": 0,
+		"mob": "fossil:fossil.triceratops",
+		"mincount": 5,
 		"result": "deny"
 	}
 ]
