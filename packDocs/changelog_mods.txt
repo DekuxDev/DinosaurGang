@@ -1,0 +1,77 @@
+*Remove
+	- IndustrialCraft (Useless)
+	- Realistic Terrain Generation
+	- Topography (I will added in futures versions)
+	- Better Advancements
+	- GameStages Mods (Useless)
+*Add
+	- JustEnoughIDs
+	- FTB Utilities
+	- FTB Library 
+	- FTB Quests
+
+*Update
+	- The Betweenlands  3.4.12 - 3.4.13
+		- Changelog
+			- Improved Volarkite up/downdrafts by making them last longer
+		- Fixes
+			- Fixed shader sky and Shallowbreath textures not rendering
+			- Fixed Lurker Skin Pouch being repairable, causing it to lose slots when repaired
+	- Animania 1.7.2 
+		- Changelog
+			- Animals no longer starve to death in their sleep (credit: katubug)
+			- Updated Japanese translation (credit: falsecross)
+		- Bug fixes:
+			- Erroring invisiblocks no longer crash the server (credits: Neeve01, vintrove) Thanks Neeve01 for the PR!
+			- Animania should no longer try to classload TOP even if it's not available (credit: asanetargoss, thanks for the PR!) 
+			- All sheep colors now spawn again (credit: several people on discord)
+			- Animals no longer spawn at 0,0,0 (credits: draeath, Nightcorelsla, katubug)
+			- Fixed a rendering issue with the trough (credit: Sunconure11)
+	- Atum 2: Return to the Sands  2.0.14 - 2.0.15
+		- Changelog
+			- Removed accidently left in debug code
+	- Chunk-Pregenerator 2.1 - 2.2
+		- Changelog
+			- Attempted to fix the Optifine Crash issue of the Preview. May not work or work. Please be understandful. I have been dealing with this bulls**t for over 10 months. I am tired of it.
+	- ConnectedTexturesMod  0.3.3.22 - 1.0.0.29
+		- Changelog
+			- Fix possible crash when other mods attempt to retexture our models
+	- Cyclops Core 1.5.0 - 1.5.1
+		- Changelog
+			- Fixes:
+				- Block scrollbar position from becoming negative
+				- Closes CyclopsMC/IntegratedTerminals#45
+	- Ender IO 5.1.51 - 5.1.52
+		- Changelog
+			- Full changelog here curseforge.com/minecraft/mc-mods/ender-io/files
+	- EnderCore 0.5.59 - 0.5.72
+		- Changelog
+			- There is no public changelog
+	- EvilCraft 0.10.77 - 0.10.78
+		- Changelog
+			- Fixes:
+				- Fix Bound Blood Drop damage bar sometimes rendering weirdly
+				This could occur when BM sets the orb level to a value below
+				the current fill level.
+				Closes CyclopsMC/EvilCraft#788
+				- Fix gui progress bars always showing some progress
+				- Fix stackable fluid containers voiding when draining into machines
+				The items that won't fit anymore will pop into the world.
+				This is a temporary measure that will be rewritten in the
+				next major EC update.
+	- Galacticraft mods 4.0.2.237 - 4.0.2.238
+		-Changelog
+			- Full changelog here micdoodle8.com/mods/galacticraft/changes
+	- Ice and Fire: Dragons in a whole new light! 1.8.2 - 1.8.3
+		- Changelog
+			-Added config for dragon block breaking whitelist
+			-Fixed lectern/bestiary pages server side crash
+			-Fixed dragons not fighting back when punched
+			-Fixed dragons suddenly stopping attacks and not moving
+			-Fixed dragons nudging players and not attacking
+			-Fixed dragon wing flap attack not triggering
+			-Fixed siren song client crash
+			-Fixed dragons becoming comatose when in water
+	- Just Enough Items (JEI)  4.15.0.289 - 4.15.0.291
+		- Changelog
+			- Full changelog here curseforge.com/minecraft/mc-mods/jei/files

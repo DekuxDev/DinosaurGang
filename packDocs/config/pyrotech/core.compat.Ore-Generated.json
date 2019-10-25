@@ -26,9 +26,6 @@
         "galacticraftcore:tile.basic_block_core.ore_aluminum_gc",
         "galacticraftplanets:tile.asteroids_block.ore_aluminum_asteroids",
         "galacticraftplanets:tile.venus.venus_ore_aluminum",
-        "galaxyspace:tile.aluminum_ore",
-        "galaxyspace:tile.europa_aluminum_ore",
-        "galaxyspace:tile.mars_aluminum",
         "geolosys:geolosys.cluster.aluminum",
         "libvulpes:material.Aluminum",
         "moreplanets:tile.chalos_block.aluminum_ore",
@@ -56,7 +53,6 @@
     "oreCobalt": {
       "slagColor": "1c5bc1",
       "langKey": [
-        "galaxyspace:tile.cobaltum_ore",
         "tconstruct:tile.tconstruct.ore.cobalt"
       ],
       "output": [
@@ -90,8 +86,6 @@
         "galacticraftcore:tile.basic_block_moon.coppermoon",
         "galacticraftplanets:tile.mars.coppermars",
         "galacticraftplanets:tile.venus.venus_ore_copper",
-        "galaxyspace:tile.copper_ore",
-        "galaxyspace:tile.io_copper_ore",
         "geolosys:geolosys.cluster.copper",
         "libvulpes:material.Copper",
         "mekanism:tile.OreBlock.CopperOre",
@@ -115,10 +109,10 @@
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
+        "atum:tile.atum.goldOre",
         "cyclicmagic:tile.end_gold_ore",
         "cyclicmagic:tile.nether_gold_ore",
-        "galaxyspace:tile.gold_ore",
-        "galaxyspace:tile.mars_gold",
+        "erebus:tile.erebus.ore_gold",
         "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold",
         "moreplanets:tile.fronos_ore.gold_ore",
@@ -142,8 +136,10 @@
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
+        "atum:tile.atum.ironOre",
         "cyclicmagic:tile.end_iron_ore",
         "cyclicmagic:tile.nether_iron_ore",
+        "erebus:tile.erebus.ore_iron",
         "extraplanets:tile.callisto.ore_iron",
         "extraplanets:tile.ceres.ore_iron",
         "extraplanets:tile.deimos.ore_iron",
@@ -166,9 +162,6 @@
         "extraplanets:tile.triton.ore_iron",
         "galacticraftplanets:tile.asteroids_block.ore_iron_asteroids",
         "galacticraftplanets:tile.mars.ironmars",
-        "galaxyspace:tile.iron_ore",
-        "galaxyspace:tile.mercury_iron_ore",
-        "galaxyspace:tile.miranda_iron_ore",
         "geolosys:geolosys.cluster.iron",
         "minecraft:tile.oreIron",
         "moreplanets:tile.chalos_block.iron_ore",
@@ -208,9 +201,6 @@
       "slagColor": "e4e5d8",
       "langKey": [
         "extraplanets:tile.jupiter.ore_nickel",
-        "galaxyspace:tile.mercury_nickel_ore",
-        "galaxyspace:tile.nickel_ore",
-        "galaxyspace:tile.nickel_ore",
         "geolosys:geolosys.cluster.nickel",
         "thermalfoundation:tile.thermalfoundation.ore.nickel"
       ],
@@ -285,7 +275,6 @@
         "galacticraftcore:tile.basic_block_moon.tinmoon",
         "galacticraftplanets:tile.mars.tinmars",
         "galacticraftplanets:tile.venus.venus_ore_tin",
-        "galaxyspace:tile.tin_ore",
         "geolosys:geolosys.cluster.tin",
         "libvulpes:material.Tin",
         "mekanism:tile.OreBlock.TinOre",

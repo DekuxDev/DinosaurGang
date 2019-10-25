@@ -10,10 +10,6 @@ Constructor:
     Notes:
         This constructs an OverworldGenerator.
 
-disableBiomeBlockReplacement:
-    Notes:
-        Disables the generators biome block replacement.
-
 setGeneratorString:
     Arguments:
         String
@@ -22,17 +18,21 @@ setGeneratorString:
     Notes:
         Sets the vanilla generator settings string for the generator.
 
+disableBiomeBlockReplacement:
+    Notes:
+        Disables the generators biome block replacement.
+
 amplify:
     Notes:
         Sets the generator to generate amplified terrain, as per the vanilla amplified WorldType.
 
-setTerrainBlock:
+setOceanBlock:
     Arguments:
         ItemBlockData
     Usage:
         block
     Notes:
-        Sets the terrain block to be used for the generator.
+        Sets the ocean block to be used for the generator.
 
 setSeaLevel:
     Arguments:
@@ -42,11 +42,11 @@ setSeaLevel:
     Notes:
         Sets the sea level for the generator.
 
-setOceanBlock:
+setTerrainBlock:
     Arguments:
         ItemBlockData
     Usage:
         block
     Notes:
-        Sets the ocean block to be used for the generator.
+        Sets the terrain block to be used for the generator.
 

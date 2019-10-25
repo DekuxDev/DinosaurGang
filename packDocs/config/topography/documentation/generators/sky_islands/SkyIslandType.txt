@@ -21,9 +21,13 @@ setBlockInRange:
     Notes:
         Sets a block to be used for generation within a range of distance from the center of the island type. 0.0 being the center of the island, 1.0 being the outermost possible blocks.
 
-disableAnimals:
+setBiome:
+    Arguments:
+        Non_Null_Biome_ID
+    Usage:
+        biome id
     Notes:
-        Disables initial animal spawning for the island type.
+        Sets the biome to be used for the island type.
 
 setMainBlock:
     Arguments:
@@ -33,11 +37,7 @@ setMainBlock:
     Notes:
         Sets the main block for the island type to be made of.
 
-setBiome:
-    Arguments:
-        Non_Null_Biome_ID
-    Usage:
-        biome id
+disableAnimals:
     Notes:
-        Sets the biome to be used for the island type.
+        Disables initial animal spawning for the island type.
 

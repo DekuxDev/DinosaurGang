@@ -53,21 +53,19 @@
       "slagColor": "ffaa1c",
       "langKey": [
         "libvulpes:material.Copper",
-        "mekanism:tile.OreBlock.CopperOre",
-        "nuclearcraft:tile.nuclearcraft.ore.copper",
+        "mysticalworld:tile.copper_ore",
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
         "libvulpes:productnugget:4",
-        "mekanism:nugget:5",
+        "mysticalworld:copper_nugget:0",
         "thermalfoundation:material:192"
       ]
     },
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
-        "cyclicmagic:tile.end_gold_ore",
-        "cyclicmagic:tile.nether_gold_ore",
+        "atum:tile.atum.goldOre",
         "minecraft:tile.oreGold"
       ],
       "output": [
@@ -88,8 +86,7 @@
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
-        "cyclicmagic:tile.end_iron_ore",
-        "cyclicmagic:tile.nether_iron_ore",
+        "atum:tile.atum.ironOre",
         "minecraft:tile.oreIron"
       ],
       "output": [
@@ -99,7 +96,6 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "nuclearcraft:tile.nuclearcraft.ore.lead",
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
@@ -124,15 +120,6 @@
         "thermalfoundation:material:197"
       ]
     },
-    "oreOsmium": {
-      "slagColor": "9babc4",
-      "langKey": [
-        "mekanism:tile.OreBlock.OsmiumOre"
-      ],
-      "output": [
-        "mekanism:nugget:1"
-      ]
-    },
     "orePlatinum": {
       "slagColor": "55f3ff",
       "langKey": [
@@ -145,9 +132,15 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
+        "bewitchment:tile.bewitchment.silver_ore",
+        "iceandfire:tile.iceandfire.silverOre",
+        "mysticalworld:tile.silver_ore",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
+        "bewitchment:silver_nugget:0",
+        "iceandfire:silver_nugget:0",
+        "mysticalworld:silver_nugget:0",
         "thermalfoundation:material:194"
       ]
     },
@@ -155,13 +148,10 @@
       "slagColor": "c3e9ff",
       "langKey": [
         "libvulpes:material.Tin",
-        "mekanism:tile.OreBlock.TinOre",
-        "nuclearcraft:tile.nuclearcraft.ore.tin",
         "thermalfoundation:tile.thermalfoundation.ore.tin"
       ],
       "output": [
         "libvulpes:productnugget:5",
-        "mekanism:nugget:6",
         "thermalfoundation:material:193"
       ]
     }

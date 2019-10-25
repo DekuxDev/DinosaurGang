@@ -62,24 +62,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "minecraft:blaze",
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "quark:foxhound",
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "quark:wraith",
-			"spawnWeight": 60,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 6
-		}, 
-		{
 			"entity": "primal:ovis_atre",
 			"spawnWeight": 90,
 			"minimumGroupCount": 1,

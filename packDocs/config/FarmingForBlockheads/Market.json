@@ -4,6 +4,8 @@
     "Vanilla Seeds": true,
     "Vanilla Flowers": false,
     "Vanilla Mushrooms": false,
+    "BiomesOPlenty Saplings": true,
+    "BiomesOPlenty Sacred Oak Sapling": false,
     "Vanilla Saplings": true,
     "Bonemeal": true,
     "Animal Eggs": false
@@ -13,6 +15,8 @@
     "Vanilla Seeds": "1*minecraft:emerald:0",
     "Vanilla Flowers": "1*minecraft:emerald:0",
     "Vanilla Mushrooms": "1*minecraft:emerald:0",
+    "BiomesOPlenty Saplings": "1*minecraft:emerald:0",
+    "BiomesOPlenty Sacred Oak Sapling": "1*minecraft:emerald:8",
     "Vanilla Saplings": "1*minecraft:emerald:0",
     "Bonemeal": "1*minecraft:emerald:0",
     "Animal Eggs": "1*minecraft:emerald:0"
@@ -22,6 +26,8 @@
     "Vanilla Seeds": 1,
     "Vanilla Flowers": 1,
     "Vanilla Mushrooms": 1,
+    "BiomesOPlenty Saplings": 1,
+    "BiomesOPlenty Sacred Oak Sapling": 1,
     "Vanilla Saplings": 1,
     "Bonemeal": 1,
     "Animal Eggs": 1
