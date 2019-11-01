@@ -1,0 +1,23 @@
+* Custom recipes that has been added to make more harder the modpack
+	- Obsidian Paxel
+	- Stone Paxel 
+	- Flint Knife
+	- Plank Woods
+	- Sticks 
+	- Grass Mesh
+	- Plant Fibers
+	- Work Stump 
+	- Plant Twine
+	- Crude Tools
+	- Flint Shears
+	- Craftin Table (Tinkers' Construct)
+
+* Items removed
+	- All Vanilla Stone Tools
+	- All Obsidian Tools added by actually Additions
+
+* Item that has been modifed 
+	- Crude tools to add more durability and make it more usable like stone tools
+	- Tooltips added for Flaked Flint
+
+Info panel has been added to bring more information about the modpack thanks for playing and if you find some bugs pls report them. 
