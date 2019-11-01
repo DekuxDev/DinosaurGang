@@ -4,11 +4,18 @@
 	- Topography (I will added in futures versions)
 	- Better Advancements
 	- GameStages Mods (Useless)
+	- Evil Craft
+	- FTB Quest
 *Add
 	- JustEnoughIDs
 	- FTB Utilities
 	- FTB Library 
-	- FTB Quests
+	- Horse Power
+	- Spice of Life: Carrot Edition
+	- Tool Progression
+	- Botania
+	- Blood Magic
+	- Blood Moon
 
 *Update
 	- The Betweenlands  3.4.12 - 3.4.13
