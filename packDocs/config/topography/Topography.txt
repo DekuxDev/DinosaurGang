@@ -40,3 +40,5 @@ fogExample.registerDimension(0, "examples/Transitioning_Fog")
 skyboxExample = registerPreset("Sky Box Transition Example", "", "A sky box that transitions between the light blue concrete texture in the day and the black concrete texture at night.")
 skyboxExample.registerDimension(0, "examples/Transitioning_Skybox")
 
+overworld = registerPreset("test", "", "Overworld with thicker rivers.")
+overworld.registerDimension(0, "DGmaps/testbiomesop")
