@@ -1,17 +1,15 @@
 #priority -100
-#Author - DekuxDev
-#ModPack - DinosaurGang
-#Script - PostInit
-/*
-	Lisent this script is the main runner for my modpack   if you know what you are doing you can modified this file ONLY if you know what you are doin.
-*/
-// ==================================
-// Initialize Scripts
-initRemove();
+
+import mods.zenstages.ZenStager;
 
 // ==================================
-// Init Functions
-function initRemove() {
+// Initialize Scripts
+initRemoveAll();
+
+// ==================================
+// Build the Stages
+ZenStager.buildAll();
+
+function initRemoveAll() {
 	scripts.crafttweaker.removeAndHide.init();
-	scripts.crafttweaker.removeCategory.init();
 }
