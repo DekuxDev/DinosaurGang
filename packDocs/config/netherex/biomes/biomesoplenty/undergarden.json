@@ -43,10 +43,10 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "mysticalworld:entity_sprout",
-			"spawnWeight": 2,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 4
+			"entity": "primal:ovis_atre",
+			"spawnWeight": 90,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 6
 		}
 	],
 	"traits": [],

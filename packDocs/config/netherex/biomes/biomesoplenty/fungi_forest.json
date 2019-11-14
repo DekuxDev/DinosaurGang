@@ -43,18 +43,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "animania:sow_large_black",
-			"spawnWeight": 9,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "animania:cow_mooshroom",
-			"spawnWeight": 9,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
 			"entity": "bewitchment:owl",
 			"spawnWeight": 20,
 			"minimumGroupCount": 1,

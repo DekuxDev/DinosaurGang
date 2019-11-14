@@ -94,14 +94,12 @@
         "moreplanets:tile.fronos_ore.copper_ore",
         "moreplanets:tile.koentus_block.copper_ore",
         "moreplanets:tile.nibiru_ore.copper_ore",
-        "mysticalworld:tile.copper_ore",
         "nuclearcraft:tile.nuclearcraft.ore.copper",
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
         "libvulpes:productnugget:4",
         "mekanism:nugget:5",
-        "mysticalworld:copper_nugget:0",
         "primal:copper_nugget:0",
         "thermalfoundation:material:192"
       ]
@@ -110,8 +108,6 @@
       "slagColor": "fcee4b",
       "langKey": [
         "atum:tile.atum.goldOre",
-        "cyclicmagic:tile.end_gold_ore",
-        "cyclicmagic:tile.nether_gold_ore",
         "erebus:tile.erebus.ore_gold",
         "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold",
@@ -137,8 +133,6 @@
       "slagColor": "d8af93",
       "langKey": [
         "atum:tile.atum.ironOre",
-        "cyclicmagic:tile.end_iron_ore",
-        "cyclicmagic:tile.nether_iron_ore",
         "erebus:tile.erebus.ore_iron",
         "extraplanets:tile.callisto.ore_iron",
         "extraplanets:tile.ceres.ore_iron",
@@ -176,7 +170,6 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "extraplanets:tile.ore_lead",
         "galacticraftplanets:tile.venus.venus_ore_galena",
         "geolosys:geolosys.cluster.lead",
         "moreplanets:tile.fronos_ore.lead_ore",
@@ -237,13 +230,11 @@
         "bewitchment:tile.bewitchment.silver_ore",
         "geolosys:geolosys.cluster.silver",
         "iceandfire:tile.iceandfire.silverOre",
-        "mysticalworld:tile.silver_ore",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
         "bewitchment:silver_nugget:0",
         "iceandfire:silver_nugget:0",
-        "mysticalworld:silver_nugget:0",
         "primal:silver_nugget:0",
         "thermalfoundation:material:194"
       ]

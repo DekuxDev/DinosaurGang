@@ -1,2 +1,2 @@
-background = addStretchedTexture("top_left", "dinosaurgang_:textures/gui/title/background/BG_L.png")
+background = addStretchedTexture("top_left", "dinosaurgang_:textures/gui/title/background/loadingscreen.png")
 background.setRelRender(1, 1)

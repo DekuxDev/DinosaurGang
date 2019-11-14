@@ -49,30 +49,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "animania:cow_jersey",
-			"spawnWeight": 9,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "animania:cow_mooshroom",
-			"spawnWeight": 9,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "mysticalworld:entity_sprout",
-			"spawnWeight": 2,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 4
-		}, 
-		{
-			"entity": "mysticalworld:entity_owl",
-			"spawnWeight": 9,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 3
-		}, 
-		{
 			"entity": "bewitchment:raven",
 			"spawnWeight": 20,
 			"minimumGroupCount": 1,

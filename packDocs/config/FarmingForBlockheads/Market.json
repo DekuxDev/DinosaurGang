@@ -10,7 +10,9 @@
     "Vanilla Flowers": false,
     "Natura Bushes": false,
     "Vanilla Mushrooms": false,
-    "Natura Nether Bushes": false
+    "Natura Nether Bushes": false,
+    "BiomesOPlenty Saplings": true,
+    "BiomesOPlenty Sacred Oak Sapling": false
   },
   "defaults payment": {
     "__comment": "You can define custom payment items for the default entries here.",
@@ -23,7 +25,9 @@
     "Vanilla Flowers": "1*minecraft:emerald:0",
     "Natura Bushes": "2*minecraft:emerald:0",
     "Vanilla Mushrooms": "1*minecraft:emerald:0",
-    "Natura Nether Bushes": "3*minecraft:emerald:0"
+    "Natura Nether Bushes": "3*minecraft:emerald:0",
+    "BiomesOPlenty Saplings": "1*minecraft:emerald:0",
+    "BiomesOPlenty Sacred Oak Sapling": "1*minecraft:emerald:8"
   },
   "defaults blacklist": [
     "examplemod:example_item"
@@ -44,6 +48,8 @@
     "Vanilla Flowers": 1,
     "Natura Bushes": 1,
     "Vanilla Mushrooms": 1,
-    "Natura Nether Bushes": 1
+    "Natura Nether Bushes": 1,
+    "BiomesOPlenty Saplings": 1,
+    "BiomesOPlenty Sacred Oak Sapling": 1
   }
 }

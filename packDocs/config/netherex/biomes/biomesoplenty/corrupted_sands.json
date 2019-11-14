@@ -43,30 +43,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "animania:hamster",
-			"spawnWeight": 8,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "animania:sow_large_black",
-			"spawnWeight": 9,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "animania:doe_nigerian_dwarf",
-			"spawnWeight": 8,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
-			"entity": "animania:doe_jack",
-			"spawnWeight": 8,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 2
-		}, 
-		{
 			"entity": "iceandfire:deathworm",
 			"spawnWeight": 2,
 			"minimumGroupCount": 1,
