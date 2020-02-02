@@ -1,0 +1,6 @@
+
+{
+  "Name": "moreplanets.infected_crystallize_slime_boss",
+  "Registry ID": "moreplanets:infected_crystallize_slime_boss",
+  "Class": "stevekung.mods.moreplanets.module.planets.diona.entity.EntityInfectedCrystallizeSlimeBoss"
+}

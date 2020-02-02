@@ -1,22 +1,12 @@
 #priority 3999
-
-/*
-	Crackpack 3 Stages Stages Script
-
-	Creates the statics to import the Stages to other scripts.
-*/
+/*================================================================================================================/*
+	This script was create for contain each stage so if you dont know what are you doin
+	dont touch nothing or you will cause some issues even break the modpack entearely thanks.
+/*================================================================================================================*/
 import mods.zenstages.ZenStager;
 import mods.zenstages.Stage;
+print("--- loading stages.zs ---");
 
-import scripts.crafttweaker.stages_utils.convertSnakeToCamel;
-
-global stages as Stage[string] = {};
-
-// Mod Stages
-var stageStrings as string[] = [
-	"twilight_disable"
-];
-
-for stageString in stageStrings {
-	stages[convertSnakeToCamel(stageString)] = ZenStager.initStage(stageString);
-}
+static stageTwilight_disable as Stage = ZenStager.initStage("twilight_disable");
+//static stageVanilla_ores as Stage = ZenStager.initStage("vanilla_ores");
+print("--- stages.zs initialized ---");

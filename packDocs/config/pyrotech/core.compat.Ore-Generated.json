@@ -23,6 +23,8 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
+        "dcs_climate:item.dcs_oreitem_red_2",
+        "dcs_climate:tile.dcs_ore2_stone_10",
         "galacticraftcore:tile.basic_block_core.ore_aluminum_gc",
         "galacticraftplanets:tile.asteroids_block.ore_aluminum_asteroids",
         "galacticraftplanets:tile.venus.venus_ore_aluminum",
@@ -41,27 +43,12 @@
         "thermalfoundation:material:196"
       ]
     },
-    "oreArdite": {
-      "slagColor": "e85e17",
-      "langKey": [
-        "tconstruct:tile.tconstruct.ore.ardite"
-      ],
-      "output": [
-        "tconstruct:nuggets:1"
-      ]
-    },
-    "oreCobalt": {
-      "slagColor": "1c5bc1",
-      "langKey": [
-        "tconstruct:tile.tconstruct.ore.cobalt"
-      ],
-      "output": [
-        "tconstruct:nuggets:0"
-      ]
-    },
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
+        "basemetals:tile.basemetals.copper_ore",
+        "dcs_climate:item.dcs_oreitem_red_1",
+        "dcs_climate:tile.dcs_ore_stone_6",
         "extraplanets:tile.callisto.ore_copper",
         "extraplanets:tile.ceres.ore_copper",
         "extraplanets:tile.deimos.ore_copper",
@@ -98,6 +85,7 @@
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
+        "basemetals:copper_nugget:0",
         "libvulpes:productnugget:4",
         "mekanism:nugget:5",
         "primal:copper_nugget:0",
@@ -108,6 +96,8 @@
       "slagColor": "fcee4b",
       "langKey": [
         "atum:tile.atum.goldOre",
+        "dcs_climate:item.dcs_oreitem_white_2",
+        "dcs_climate:tile.dcs_ore_stone_11",
         "erebus:tile.erebus.ore_gold",
         "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold",
@@ -133,6 +123,9 @@
       "slagColor": "d8af93",
       "langKey": [
         "atum:tile.atum.ironOre",
+        "dcs_climate:item.dcs_oreitem_white_1",
+        "dcs_climate:tile.dcs_ore_stone_1",
+        "dcs_climate:tile.dcs_ore_stone_4",
         "erebus:tile.erebus.ore_iron",
         "extraplanets:tile.callisto.ore_iron",
         "extraplanets:tile.ceres.ore_iron",
@@ -170,6 +163,8 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
+        "basemetals:tile.basemetals.lead_ore",
+        "dcs_climate:item.dcs_oreitem_blue_2",
         "galacticraftplanets:tile.venus.venus_ore_galena",
         "geolosys:geolosys.cluster.lead",
         "moreplanets:tile.fronos_ore.lead_ore",
@@ -177,6 +172,7 @@
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
+        "basemetals:lead_nugget:0",
         "primal:lead_nugget:0",
         "thermalfoundation:material:195"
       ]
@@ -193,13 +189,27 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
+        "basemetals:tile.basemetals.nickel_ore",
+        "dcs_climate:item.dcs_oreitem_green_2",
+        "dcs_climate:tile.dcs_ore2_stone_8",
+        "dcs_climate:tile.dcs_ore_stone_7",
         "extraplanets:tile.jupiter.ore_nickel",
         "geolosys:geolosys.cluster.nickel",
         "thermalfoundation:tile.thermalfoundation.ore.nickel"
       ],
       "output": [
+        "basemetals:nickel_nugget:0",
         "primal:nickel_nugget:0",
         "thermalfoundation:material:197"
+      ]
+    },
+    "oreOctine": {
+      "slagColor": "ffaa22",
+      "langKey": [
+        "thebetweenlands:tile.thebetweenlands.octine_ore"
+      ],
+      "output": [
+        "thebetweenlands:items_misc:42"
       ]
     },
     "oreOsmium": {
@@ -215,11 +225,13 @@
     "orePlatinum": {
       "slagColor": "55f3ff",
       "langKey": [
+        "basemetals:tile.basemetals.platinum_ore",
         "extraplanets:tile.kepler22b.ore_platinum",
         "geolosys:geolosys.cluster.platinum",
         "thermalfoundation:tile.thermalfoundation.ore.platinum"
       ],
       "output": [
+        "basemetals:platinum_nugget:0",
         "primal:platinum_nugget:0",
         "thermalfoundation:material:198"
       ]
@@ -227,21 +239,37 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
+        "basemetals:tile.basemetals.silver_ore",
         "bewitchment:tile.bewitchment.silver_ore",
+        "dcs_climate:item.dcs_oreitem_black_2",
+        "dcs_climate:tile.dcs_ore_stone_12",
         "geolosys:geolosys.cluster.silver",
         "iceandfire:tile.iceandfire.silverOre",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
+        "basemetals:silver_nugget:0",
         "bewitchment:silver_nugget:0",
         "iceandfire:silver_nugget:0",
         "primal:silver_nugget:0",
         "thermalfoundation:material:194"
       ]
     },
+    "oreSyrmorite": {
+      "slagColor": "4455bb",
+      "langKey": [
+        "thebetweenlands:tile.thebetweenlands.syrmorite_ore"
+      ],
+      "output": [
+        "thebetweenlands:items_misc:41"
+      ]
+    },
     "oreTin": {
       "slagColor": "c3e9ff",
       "langKey": [
+        "basemetals:tile.basemetals.tin_ore",
+        "dcs_climate:item.dcs_oreitem_green_1",
+        "dcs_climate:tile.dcs_ore2_stone_4",
         "extraplanets:tile.callisto.ore_tin",
         "extraplanets:tile.ceres.ore_tin",
         "extraplanets:tile.deimos.ore_tin",
@@ -278,6 +306,7 @@
         "thermalfoundation:tile.thermalfoundation.ore.tin"
       ],
       "output": [
+        "basemetals:tin_nugget:0",
         "libvulpes:productnugget:5",
         "mekanism:nugget:6",
         "primal:tin_nugget:0",

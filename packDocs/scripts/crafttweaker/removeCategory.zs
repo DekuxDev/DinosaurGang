@@ -1,11 +1,12 @@
 #priority 1
-#Author - DekuxDev
-#ModPack - DinosaurGang
-#Script - RemoveCategory
+/*================================================================================================================/*
+	This script was create for remove some JEI categorys so if you dont know what are you doin
+	dont touch nothing or you will cause some issues even break the modpack entearely thanks.
+/*================================================================================================================*/
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import mods.jei.JEI;
-
+print("--- loading removeCategory.zs ---");
 
 static hiddenCategories as string[] = [
 	"pyrotech.bloomery",
@@ -36,3 +37,4 @@ function init() {
 		mods.jei.JEI.hideCategory(category);
 	}
 }
+print("--- removeCategory.zs initialized ---");

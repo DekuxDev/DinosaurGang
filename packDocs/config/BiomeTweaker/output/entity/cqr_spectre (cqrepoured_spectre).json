@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_spectre",
+  "Registry ID": "cqrepoured:spectre",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRSpectre"
+}

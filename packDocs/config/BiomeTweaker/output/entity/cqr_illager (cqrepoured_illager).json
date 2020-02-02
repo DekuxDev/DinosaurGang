@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_illager",
+  "Registry ID": "cqrepoured:illager",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRIllager"
+}

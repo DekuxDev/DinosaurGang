@@ -1,0 +1,38 @@
+{
+    "type": "main",
+    "stats": [
+        {"name": "durability",      "value": 1235},
+        {"name": "armor_durability","value": 31},
+        {"name": "enchantability",  "value": 2},
+        {"name": "harvest_level",   "value": 3},
+        {"name": "harvest_speed",   "value": 1.6},
+        {"name": "melee_damage",    "value": 10},
+        {"name": "magic_damage",    "value": 1},
+        {"name": "attack_speed",    "value": 0.6},
+        {"name": "armor",           "value": 20},
+        {"name": "armor_toughness", "value": 8},
+        {"name": "magic_armor",     "value": 1},
+        {"name": "ranged_damage",   "value": 1.2},
+        {"name": "ranged_speed",    "value": -0.0},
+        {"name": "rarity",          "value": 10},
+        {"name": "chargeability",   "value": 0.4}
+    ],
+    "crafting_items": {
+        "normal": {
+            "item": "extraplanets:tier11_items:4",
+            "oredict": "gemGreenDiamond"
+        }
+    },
+    "display": {
+        "hidden": false,
+        "texture_suffix": "generic_hc",
+        "texture_color": "5EEB67",
+        "broken_color": "5EEB67",
+        "override_localization": "Green Diamond"
+    },
+    "availability": {
+        "enabled": true,
+        "tier": 2,
+        "tool_blacklist": []
+    }
+}

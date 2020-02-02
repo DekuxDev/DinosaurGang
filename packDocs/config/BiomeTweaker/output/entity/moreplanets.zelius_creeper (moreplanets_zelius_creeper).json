@@ -1,0 +1,6 @@
+
+{
+  "Name": "moreplanets.zelius_creeper",
+  "Registry ID": "moreplanets:zelius_creeper",
+  "Class": "stevekung.mods.moreplanets.module.planets.diona.entity.EntityZeliusCreeper"
+}

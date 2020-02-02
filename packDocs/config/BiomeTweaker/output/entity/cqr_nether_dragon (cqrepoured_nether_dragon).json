@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_nether_dragon",
+  "Registry ID": "cqrepoured:nether_dragon",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.boss.EntityCQRNetherDragon"
+}

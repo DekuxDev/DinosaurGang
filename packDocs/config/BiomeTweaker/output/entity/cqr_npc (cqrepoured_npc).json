@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_npc",
+  "Registry ID": "cqrepoured:npc",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRNPC"
+}

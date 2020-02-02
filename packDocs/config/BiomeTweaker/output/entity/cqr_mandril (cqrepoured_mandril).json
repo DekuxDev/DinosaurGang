@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_mandril",
+  "Registry ID": "cqrepoured:mandril",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRMandril"
+}

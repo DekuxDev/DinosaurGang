@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_orc",
+  "Registry ID": "cqrepoured:orc",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQROrc"
+}

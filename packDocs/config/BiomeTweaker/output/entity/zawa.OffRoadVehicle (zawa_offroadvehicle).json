@@ -1,0 +1,6 @@
+
+{
+  "Name": "zawa.OffRoadVehicle",
+  "Registry ID": "zawa:offroadvehicle",
+  "Class": "org.zawamod.entity.vehicle.EntityOffRoad"
+}

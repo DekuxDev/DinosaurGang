@@ -1,0 +1,32 @@
+{
+    "type": "rod",
+    "stats": [
+        {"name": "durability",      "value":  1.0, "op": "MUL2"},
+        {"name": "enchantability",  "value":  0.8, "op": "MUL2"},
+        {"name": "harvest_level",   "value":    2, "op": "ADD"},
+        {"name": "harvest_speed",   "value":  0.6, "op": "MUL2"},
+        {"name": "melee_damage",    "value":  0.8, "op": "MUL2"},
+        {"name": "magic_damage",    "value": 0.6, "op": "MUL2"},
+        {"name": "attack_speed",    "value":  0.6, "op": "ADD"},
+        {"name": "ranged_damage",   "value":  0.6, "op": "MUL2"},
+        {"name": "ranged_speed",    "value":  0.6, "op": "MUL2"},
+        {"name": "rarity",          "value":    40}
+    ],
+    "crafting_items": {
+        "normal": {
+            "item": "basemetals:obsidian_rod"
+        }
+    },
+    "display": {
+        "hidden": false,
+        "texture_suffix": "generic_hc",
+        "texture_color": "120229",
+        "broken_color": "120229",
+        "override_localization": "Obsidian"
+    },
+    "availability": {
+        "enabled": true,
+        "tier": 3,
+        "tool_blacklist": []
+    }
+}

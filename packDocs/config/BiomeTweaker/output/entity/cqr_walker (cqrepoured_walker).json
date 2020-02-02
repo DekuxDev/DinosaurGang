@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_walker",
+  "Registry ID": "cqrepoured:walker",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRWalker"
+}

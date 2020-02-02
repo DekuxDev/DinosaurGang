@@ -1,0 +1,4 @@
+DinosaurGang = registerPreset("DinosaurGang", "images/World1", "It's just normal gen Kappa", "VANILLA")
+
+setAsDefaultWorldType()
+printDocumentation(false)

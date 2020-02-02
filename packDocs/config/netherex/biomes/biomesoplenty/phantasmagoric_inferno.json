@@ -43,12 +43,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "bewitchment:serpent",
-			"spawnWeight": 6,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 4
-		}, 
-		{
 			"entity": "bewitchment:raven",
 			"spawnWeight": 20,
 			"minimumGroupCount": 1,

@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_golem",
+  "Registry ID": "cqrepoured:golem",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRGolem"
+}

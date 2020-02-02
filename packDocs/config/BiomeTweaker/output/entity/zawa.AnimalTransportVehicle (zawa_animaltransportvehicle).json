@@ -1,0 +1,6 @@
+
+{
+  "Name": "zawa.AnimalTransportVehicle",
+  "Registry ID": "zawa:animaltransportvehicle",
+  "Class": "org.zawamod.entity.vehicle.EntityATV"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_skeleton",
+  "Registry ID": "cqrepoured:skeleton",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRSkeleton"
+}

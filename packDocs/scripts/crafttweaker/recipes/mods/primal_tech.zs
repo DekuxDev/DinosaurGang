@@ -1,10 +1,11 @@
 #priority 1
-#Author - DekuxDev
-#ModPack - DinosaurGang
-#Mod - Primal_Tech
+/*================================================================================================================/*
+	This script was create for an respective mod recipe so if you dont know what are you doin
+	dont touch nothing or you will cause some issues even break the modpack entearely thanks.
+/*================================================================================================================*/
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-
+print("--- loading primal_tech.zs ---");
 /*
 Shapeless Recipes
 */
@@ -23,3 +24,4 @@ static itemRecipeRemoval as IItemStack[] = [
 for item in itemRecipeRemoval {
 	recipes.remove(item);
 }
+print("--- primal_tech.zs initialized ---");

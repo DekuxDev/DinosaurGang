@@ -37,12 +37,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "bewitchment:serpent",
-			"spawnWeight": 6,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 4
-		}, 
-		{
 			"entity": "primal:ovis_atre",
 			"spawnWeight": 90,
 			"minimumGroupCount": 1,

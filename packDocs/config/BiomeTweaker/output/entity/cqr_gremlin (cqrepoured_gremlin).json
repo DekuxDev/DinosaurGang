@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_gremlin",
+  "Registry ID": "cqrepoured:gremlin",
+  "Class": "com.teamcqr.chocolatequestrepoured.objects.entity.mobs.EntityCQRGremlin"
+}
